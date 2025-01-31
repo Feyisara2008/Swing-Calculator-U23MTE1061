@@ -1,1 +1,4 @@
-# Swing-Calculator-U23MTE1061
+NAME: Hussainah Kehinde Oyeniyi 
+MATRIC NO.: U23MTE1061
+DEPARTMENT: Mechatronics
+USERNAME: Feyisara2008
